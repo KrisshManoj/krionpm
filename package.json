@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "ansis": "^4.1.0",
+    "axios": "^1.11.0",
+    "commander": "^14.0.0",
+    "nanospinner": "^1.2.2"
+  },
+  "name": "krionpm",
+  "version": "1.0.1",
+  "description": "A basic npm package info viewer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "krionpm": "./index.js"
+  },
+  "keywords": [
+    "npm",
+    "k",
+    "package",
+    "npmpackage",
+    "knpm",
+    "krio",
+    "krionpm"
+  ],
+  "author": "krioshabang",
+  "license": "ISC",
+  "type": "commonjs"
+}
