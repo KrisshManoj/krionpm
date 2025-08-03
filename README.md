@@ -18,7 +18,7 @@ npm install -g krionpm
 
 # Example Outputs:
 
-> krionpm check download
+> krionpm check express
 
 ```bash
 --------------------------------------------------------------------------------
